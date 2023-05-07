@@ -1,0 +1,26 @@
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\ASP.MVC Validations.staticwebassets.runtime.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\ASP.MVC Validations.exe
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\ASP.MVC Validations.deps.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\ASP.MVC Validations.runtimeconfig.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\ASP.MVC Validations.dll
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\bin\Debug\net6.0\ASP.MVC Validations.pdb
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.csproj.AssemblyReference.cache
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.AssemblyInfoInputs.cache
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.AssemblyInfo.cs
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.csproj.CoreCompileInputs.cache
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.RazorAssemblyInfo.cache
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.RazorAssemblyInfo.cs
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\scopedcss\bundle\ASP.MVC Validations.styles.css
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\scopedcss\projectbundle\ASP.MVC Validations.bundle.scp.css
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.dll
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\refint\ASP.MVC Validations.dll
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.pdb
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ASP.MVC Validations.genruntimeconfig.cache
+C:\Users\Raju\Desktop\vamsi\asp_mvc\asp_mvc\obj\Debug\net6.0\ref\ASP.MVC Validations.dll
